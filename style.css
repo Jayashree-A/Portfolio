@@ -61,6 +61,8 @@ section{
     text-align:center;
     font-size:44px;
     margin-bottom:50px;
+    color:#00ff66;
+    text-shadow:0 0 10px #00ff66;
 }
 
 .heading span{
