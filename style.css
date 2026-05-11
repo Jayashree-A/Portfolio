@@ -194,7 +194,7 @@ section{
 .skill-card{
     padding:24px;
     background:#111;
-    border:2px solid #00ff66;
+    border:2px solid #F5F5DC;
     border-radius:16px;
     text-align:center;
     font-size:19px;
@@ -203,7 +203,7 @@ section{
 
 .skill-card:hover{
     transform:translateY(-8px);
-    box-shadow:0 0 18px #00ff66;
+    box-shadow:0 0 18px #F5F5DC;
 }
 
 /* ===== PROJECTS ===== */
@@ -217,7 +217,7 @@ section{
     background:#111;
     padding:28px;
     border-radius:22px;
-    border:2px solid #00ff66;
+    border:2px solid #F5F5DC;
     transition:0.3s ease;
 }
 
@@ -227,7 +227,7 @@ section{
 }
 
 .card h3{
-    color:#00ff66;
+    color:#F5F5DC;
     margin-bottom:14px;
     font-size:28px;
 }
@@ -250,7 +250,7 @@ form input,
 form textarea{
     padding:15px;
     background:#111;
-    border:2px solid #00ff66;
+    border:2px solid #F5F5DC;
     color:#fff;
     border-radius:14px;
     outline:none;
